@@ -1,4 +1,19 @@
-Greek Art Vocabulary:
+Design Notes:
+ Phantasma is an apparition that communicates via a medallion. It answers all questions about Ancient Greek Mythology and narrates the tales. Design a 3D medallion with Greek inspired design symbols. There should be a relief skull in the centre with a separate jaw so that the jaw can be moved independently of the head in order for the skull to speak. 
+
+Design Spec:
+3D PBR bronze medallion with four decorative rings on the outside.
+1) Egg and dart
+2) Bead and reel
+3) Meander
+4) Beads alone
+Low poly skull in the center of the medallion.
+Laurel wreath around the skull
+Greek inscription at the bottom of the skull - translation of phantasma. There should be enough gap for the bottom part of the skull to open during talking.
+
+
+
+~~ AI Chatbot Help ~~
 
 For the border ring:
 
@@ -31,7 +46,5 @@ Tripod — the Pythia's seat, and the emblem of Delphi. Strong, specific, and th
 Gorgoneion — the Medusa head, used apotropaically on shields and pediments. Powerful but competes with your skull; probably one face too many.
 
 Ouroboros, caduceus, kantharos, lyre — all usable as small accents.
-
-** Recommendation ** meander on the outer ring, an inscription band inside it in Greek capitals, egg-and-dart as the inner frame, laurel or a tripod as a small accent. That's restrained, unmistakably Greek, and gives your renderer three distinct relief scales to show off.
 
 One note on the inscription: use authentic Greek lettering rather than Latin letters styled to look Greek. Something like ΓΝΩΘΙ ΣΕΑΥΤΟΝ (know thyself) or ΜΗΔΕΝ ΑΓΑΝ (nothing in excess) — both were actually inscribed at Delphi, which makes them exactly right for your oracle.
