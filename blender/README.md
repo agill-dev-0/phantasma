@@ -22,3 +22,7 @@ Greek inscription at the bottom of the skull - translation of phantasma. There s
 
 ### Animation Architecture: 
  Keep the rings, skull, jaw, laurel as separate objects so that they can be transformed natively without adding the weight of shape keys or bones or keyframes to the gLTF so that it stays small and loads fast on mobile.
+
+
+### Design Log:
+1) The raw triangle count for the medallion comes out to be well over 3 million! Need to avoid the use of icosphere to create the "Egg and dart", "bead and reel" patterns. Instead create custom 2D relief pattern which has lower triangle count.
